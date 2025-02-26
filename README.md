@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning **Blockchain and building projects in blockchain!**
 
 - 📫 Reach me: **maitrimudumbi5113@gmail.com**
-- my notes: https://www.notion.so/Blockchain-1a602dc1524f803480f5f5957e30dbb8?pvs=4
+- my notes: 
